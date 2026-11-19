@@ -13,3 +13,15 @@ Learning C Programming
 Interested in Web Development
 
 Goal: Improve my programming skills and build real-world projects.
+
+
+## My Projects
+
+### C Programming
+Practiced basic C programs and data structures.
+
+### Java Programming
+Created Java programs using classes and objects.
+
+### Web Development
+Created simple web pages using HTML and CSS.
