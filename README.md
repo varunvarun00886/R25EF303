@@ -11,3 +11,5 @@ Learning C Programming
 Learning C Programming
 
 Interested in Web Development
+
+Goal: Improve my programming skills and build real-world projects.
